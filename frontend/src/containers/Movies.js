@@ -24,6 +24,7 @@ import { gql ,useQuery} from '@apollo/client'
 //     name:'YJHD',genre:'Comedy',year:'2001'
 //   }
 // ]
+////
 
 
 const listAllMovies=gql`
